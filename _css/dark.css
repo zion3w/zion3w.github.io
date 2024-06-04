@@ -1,0 +1,32 @@
+body{
+	/* background-color: #2e3440; */
+	background-color: #292e39;
+	/* color: #eceff4; */
+	/* color: #e5e9f0; */
+	color: #ddd;
+}
+a{
+	/* color: #5e81ac; */
+	color: #81a1c1;
+}
+a:hover{
+	color: #5e81ac;
+}
+sup.jtt{
+	color: #8fbcbb;
+}
+b, strong{
+	color: #d8dee9;
+}
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
+	color: #d8dee9;
+}
+body .green{
+	color: #a3be8c;
+}
+section blockquote{
+	border-color: #a3be8c;
+}
+#s-2 h2 > em{
+	text-decoration-color: #a3be8c;
+}
