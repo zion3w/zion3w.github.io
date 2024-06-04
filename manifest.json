@@ -1,0 +1,51 @@
+{
+  "name": "Full Stack Web Developer CV",
+  "short_name": "WebDev CV",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/img/favicon/favicon36.png",
+      "sizes": "36x36",
+      "type": "image/png",
+      "density": 0.75
+    },
+    {
+      "src": "/img/favicon/favicon48.png",
+      "type": "image/png",
+      "sizes": "48x48",
+      "density": 1.0
+    },
+    {
+      "src": "/img/favicon/favicon72.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "density": 1.5
+    },
+    {
+      "src": "/img/favicon/favicon96.png",
+      "type": "image/png",
+      "sizes": "96x96",
+      "density": 2.0
+    },
+    {
+      "src": "/img/favicon/favicon144.png",
+      "type": "image/png",
+      "sizes": "144x144",
+      "density": 3.0
+    },
+    {
+      "src": "/img/favicon/favicon192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "density": 4.0
+    },
+    {
+      "src": "/img/favicon/favicon512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/"
+}
