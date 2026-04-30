@@ -535,17 +535,6 @@ Websites for Czech companies providing electrical work services.
 
 ---
 
-### Improvements, Bug Fixes and Security Fixes
-
-- [roossa.ru](https://roossa.ru)
-- [jerus.city](https://jerus.city)
-- [zakonpro.ru](https://zakonpro.ru)
-- [lombardrus.ru](https://www.lombardrus.ru)
-- [bot4sale.ru](https://bot4sale.ru)
-- [sport-laboratory.ru](https://sport-laboratory.ru)
-
----
-
 ## Personal Info
 
 - **Time Zone:** UTC +3
